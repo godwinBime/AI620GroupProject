@@ -4,11 +4,11 @@ Computer Science...
 If you're using Google Colab, follow these steps to get started:
 Upload your filess and datasets into Google Drive then use the following copy commands to copy them over everytime you start the notebook.
 
--> !cp /content/drive/MyDrive/Colab\ Notebooks/<file location> /content/sample_data
+-> !cp /content/drive/MyDrive/Colab\ Notebooks/'file location' /content/sample_data
 
--> !cp /content/drive/MyDrive/Colab\ Notebooks/<file location> /content/sample_data
+-> !cp /content/drive/MyDrive/Colab\ Notebooks/'file location' /content/sample_data
 
--> !cp /content/drive/MyDrive/Colab\ Notebooks/<file location> /content/sample_data
+-> !cp /content/drive/MyDrive/Colab\ Notebooks/'file location' /content/sample_data
 
 -> cd sample_data/
 
@@ -16,4 +16,4 @@ Upload your filess and datasets into Google Drive then use the following copy co
 
 
 To copy entire directory, run
-  -> !cp -av /content/drive/MyDrive/Colab\ Notebooks/<folder  location> /content/sample_data
+  -> !cp -av /content/drive/MyDrive/Colab\ Notebooks/'folder  location' /content/sample_data
