@@ -20,6 +20,8 @@ To copy entire directory, run
   
   
 #############################ATTENTION##############################
+
+
 once you run "!aws configure" and input your cridentials, return back 
 to this cell and comment out this command and run it again to clear 
 out your cridentials before pushing your notebook to the repository.
