@@ -16,6 +16,8 @@ Upload your filess and datasets into Google Drive then use the following copy co
 
 
 To copy entire directory, run
+
+
   -> !cp -av /content/drive/MyDrive/Colab\ Notebooks/'folder  location' /content/sample_data
   
   
