@@ -19,7 +19,8 @@ To copy entire directory, run
   -> !cp -av /content/drive/MyDrive/Colab\ Notebooks/'folder  location' /content/sample_data
   
   
-#############################ATTENTION##############################
+  
+#############################  ATTENTION   ###########################
 
 
 once you run "!aws configure" and input your cridentials, return back 
